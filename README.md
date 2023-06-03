@@ -9,6 +9,7 @@ const ccplatz = {
   programming: [PHP, HTML, CSS, JavaScript, Java],
   tools: [Laravel, Typo3, Extbase, Docker, Traefik, Bootstrap],
   os: [ubuntu, Windows, iOS, Android],
+  hobbies: [coding, photography, dog, voluntary_club_work]
   currentChanllenge:
     "After ten years of managing web projects I decided to find my happiness in developing websites.",
   futureGoals: "contributing in open source projects",
@@ -20,7 +21,7 @@ const ccplatz = {
 ## _Social Media_
 
 [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/CarstenChristian_Platz/cv)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.test.de)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carsten-christian-platz-7707aa279/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ccplatz/)
 
 <br>
