@@ -9,7 +9,7 @@ const ccplatz = {
   programming: [PHP, HTML, CSS, JavaScript, Java],
   tools: [Laravel, Typo3, Extbase, Docker, Traefik, Bootstrap],
   os: [ubuntu, Windows, iOS, Android],
-  hobbies: [coding, photography, dog, voluntary_club_work]
+  hobbies: [coding, photography, spencer_the_sheltie, voluntary_club_work]
   currentChanllenge:
     "After ten years of managing web projects I decided to find my happiness in developing websites.",
   futureGoals: "contributing in open source projects",
@@ -26,6 +26,6 @@ const ccplatz = {
 
 <br>
 
-## _My repos_
+## _My Repos_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccplatz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
