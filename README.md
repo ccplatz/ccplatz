@@ -2,6 +2,8 @@
 
 I'm learning programming since 2021. I like building web-based solutions and get them working.
 
+Visit my personal website: [ccplatz.de](https://ccplatz.de)
+
 ```javascript
 const ccplatz = {
   fullName: "Carsten-Christian Platz",
@@ -10,7 +12,7 @@ const ccplatz = {
   tools: [Laravel, Typo3, Extbase, Docker, Traefik, Bootstrap],
   os: [ubuntu, Windows, iOS, Android],
   hobbies: [coding, photography, spencer_the_sheltie, voluntary_club_work]
-  currentChanllenge:
+  currentChallenge:
     "After ten years of managing web projects I decided to find my happiness in developing websites.",
   futureGoals: "contributing in open source projects",
 };
