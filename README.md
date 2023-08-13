@@ -8,13 +8,23 @@ Visit my personal website: [ccplatz.de](https://ccplatz.de)
 const ccplatz = {
   fullName: "Carsten-Christian Platz",
   firstPC: "Atari 800 XL",
-  programming: [PHP, HTML, CSS, JavaScript, Java],
-  tools: [Laravel, Typo3, Extbase, Docker, Traefik, Bootstrap],
+  programming: [PHP, HTML, CSS, JavaScript, Java, bash],
+  tools: [
+    Laravel,
+    Typo3,
+    Extbase,
+    Docker,
+    Traefik,
+    Bootstrap,
+    VS_Code,
+    PhpStorm,
+    LaTex,
+  ],
   os: [ubuntu, Windows, iOS, Android],
   hobbies: [coding, photography, spencer_the_sheltie, voluntary_club_work],
-  currentChallenge:
-    "After ten years of managing web projects I decided to find my happiness in developing websites.",
-  futureGoals: "contributing in open source projects",
+  currentChallenge: "Finishing my apprenticeship in application development.",
+  futureGoals:
+    "Improving my Javascript knowledge and contributing in open source projects",
 };
 ```
 
