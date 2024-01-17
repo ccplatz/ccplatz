@@ -20,9 +20,9 @@ const ccplatz = {
     PhpStorm,
     LaTex,
   ],
-  os: [ubuntu, Windows, iOS, Android],
+  os: [ubuntu/Arch, Windows, iOS, Android],
   hobbies: [coding, photography, spencer_the_sheltie, voluntary_club_work],
-  currentChallenge: "Finishing my apprenticeship in application development.",
+  currentChallenge: "Developing my first own web project.",
   futureGoals:
     "Improving my Javascript knowledge and contributing in open source projects",
 };
