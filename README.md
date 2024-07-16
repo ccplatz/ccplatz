@@ -1,6 +1,6 @@
 # Hi, I'm Carsten!
 
-I'm learning programming since 2021. I like building web-based solutions and get them working.
+I'm web developer. I like building web-based solutions and get them working.
 
 Visit my personal website: [ccplatz.de](https://ccplatz.de)
 
@@ -18,13 +18,14 @@ const ccplatz = {
     Bootstrap,
     VS_Code,
     PhpStorm,
+    Eleventy,
     LaTex,
   ],
   os: [ubuntu/Arch, Windows, iOS, Android],
   hobbies: [coding, photography, spencer_the_sheltie, voluntary_club_work],
-  currentChallenge: "Developing my first own web project.",
+  currentChallenge: "Developing my side businesses: Sendenhorster.info, Photography Building Websites",
   futureGoals:
-    "Improving my Javascript knowledge and contributing in open source projects",
+    "Improving my allover web developing knowledge and contributing in open source projects",
 };
 ```
 
