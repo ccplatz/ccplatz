@@ -23,7 +23,7 @@ const ccplatz = {
   ],
   os: [ubuntu/Arch, Windows, iOS, Android],
   hobbies: [coding, photography, spencer_the_sheltie, voluntary_club_work],
-  currentChallenge: "Developing my side businesses: Sendenhorster.info, Photography Building Websites",
+  currentChallenge: "Developing my side businesses: sendenhorster.info, event photography and building websites",
   futureGoals:
     "Improving my allover web developing knowledge and contributing in open source projects",
 };
