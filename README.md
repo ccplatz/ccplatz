@@ -23,7 +23,6 @@ Photography, Spencer the Sheltie, and voluntary club work keep the rest of the s
 ## `ls -la ~/projects`
 
 - [`project-template`](https://github.com/ccplatz/project-template) - Bootstrap template with worktree orchestration and AI agent guardrails.
-- [`ai-dev-setup`](https://github.com/ccplatz/ai-dev-setup) - Tools and configuration for an AI-assisted development workflow.
 - [`ccplatz.de`](https://github.com/ccplatz/ccplatz.de) - Source repository for my personal website.
 
 ## `cat ~/status.txt`
@@ -31,7 +30,7 @@ Photography, Spencer the Sheltie, and voluntary club work keep the rest of the s
 ```text
 Focus:       Agentic Engineering
 Languages:   PHP, HTML, CSS, JavaScript, Java, Bash
-Frameworks:  Laravel, Extbase
+Frameworks:  Laravel, React
 Tools:       Docker, Traefik, VS Code, PhpStorm, GitHub Copilot, opencode, MCP
 OS:          Arch Linux / Ubuntu
 ```
@@ -48,7 +47,3 @@ System uptime: since the Atari 800 XL
 - [XING](https://www.xing.com/profile/CarstenChristian_Platz/cv)
 - [LinkedIn](https://www.linkedin.com/in/carsten-christian-platz-7707aa279/)
 - [Instagram](https://www.instagram.com/ccplatz/)
-
-## `~/stats`
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccplatz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
