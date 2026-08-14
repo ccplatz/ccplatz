@@ -1,44 +1,54 @@
-# Hi, I'm Carsten!
+# `carsten@arch:~$ ./profile`
 
-I'm web developer. I like building web-based solutions and get them working.
+```text
+Loading developer profile...
+Arch mode: enabled
+Atari compatibility layer: active
+Coffee dependency: optional
 
-Visit my personal website: [ccplatz.de](https://ccplatz.de)
-
-```javascript
-const ccplatz = {
-  fullName: "Carsten-Christian Platz",
-  firstPC: "Atari 800 XL",
-  programming: [PHP, HTML, CSS, JavaScript, Java, bash],
-  tools: [
-    Laravel,
-    Typo3,
-    Extbase,
-    Docker,
-    Traefik,
-    Bootstrap,
-    VS_Code,
-    PhpStorm,
-    Eleventy,
-    LaTex,
-  ],
-  os: [ubuntu/Arch, Windows, iOS, Android],
-  hobbies: [coding, photography, spencer_the_sheltie, voluntary_club_work],
-  currentChallenge: "Developing my side businesses: sendenhorster.info, event photography and building websites",
-  futureGoals:
-    "Improving my allover web developing knowledge and contributing in open source projects",
-};
+CARSTEN-CHRISTIAN PLATZ
+Web developer / builder of useful web-based things
+Current mission: agentic engineering
+Status: compiling useful ideas
 ```
 
-<br>
+## `cat ~/about.txt`
 
-## _Social Media_
+I'm a web developer who likes building practical web-based solutions and getting them working.
 
-[![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/CarstenChristian_Platz/cv)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carsten-christian-platz-7707aa279/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ccplatz/)
+My first computer was an Atari 800 XL. These days I work with PHP, JavaScript, containers, and an unreasonable number of terminal windows.
 
-<br>
+Photography, Spencer the Sheltie, and voluntary club work keep the rest of the system running.
 
-## _My Repos_
+## `ls -la ~/projects`
+
+- [`project-template`](https://github.com/ccplatz/project-template) - Bootstrap template with worktree orchestration and AI agent guardrails.
+- [`ai-dev-setup`](https://github.com/ccplatz/ai-dev-setup) - Tools and configuration for an AI-assisted development workflow.
+- [`ccplatz.de`](https://github.com/ccplatz/ccplatz.de) - Source repository for my personal website.
+
+## `cat ~/status.txt`
+
+```text
+Focus:       Agentic Engineering
+Languages:   PHP, HTML, CSS, JavaScript, Java, Bash
+Frameworks:  Laravel, Extbase
+Tools:       Docker, Traefik, VS Code, PhpStorm, GitHub Copilot, opencode, MCP
+OS:          Arch Linux / Ubuntu
+```
+
+```text
+AUR packages installed: too many
+System uptime: since the Atari 800 XL
+"It works on my machine": still investigating
+```
+
+## `./connect.sh`
+
+- [Website](https://ccplatz.de)
+- [XING](https://www.xing.com/profile/CarstenChristian_Platz/cv)
+- [LinkedIn](https://www.linkedin.com/in/carsten-christian-platz-7707aa279/)
+- [Instagram](https://www.instagram.com/ccplatz/)
+
+## `~/stats`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccplatz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
